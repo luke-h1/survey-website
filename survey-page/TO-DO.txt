@@ -1,0 +1,3 @@
+- need to fix issue with one of the boxes pre-selecting an option... [x] 
+- make everything required so that no data is lost if press submit  [x] 
+- make submit button
